@@ -1,2 +1,2 @@
 @echo off
-start "" "C:\Resa\mrdgasdthawed.exe"
+start "" "C:\Resa\m
