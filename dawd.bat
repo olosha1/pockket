@@ -1,2 +1,2 @@
 @echo off
-start "" "C:\Resa\m
+start "" "C:\Resa\nbjekadkthgawd.exe
